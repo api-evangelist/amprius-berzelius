@@ -19,5 +19,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: VulnerabilityDisclosure
+  url: security/amprius-berzelius-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/amprius-berzelius-domain-security.yml
 - type: Website
   url: https://www.hiive.com/securities/amprius-berzelius-stock
